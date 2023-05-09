@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashantsumfactor
 - 👀 I’m interested in Android application deveoplopment
-- 🌱 I’m currently learning android application development
+- 🌱 I’m currently learning android application development, flutter and also NextJs
 - 📫 You can contact me by sending email on : prashant@sumfactor.com
 
 <!---
